@@ -1,9 +1,9 @@
 public class MovieQuoteDisplay {
     public static void main(String[] args) {
         // Variables to store the quote details
-        String quote = "May the Force be with you.";
-        String movie = "Star Wars";
-        String character = "Han Solo";
+        String quote = "Near Far";
+        String movie = "Titanic";
+        String character = "Jack and Rose";
         int year = 1977;
 
         // Display the information
